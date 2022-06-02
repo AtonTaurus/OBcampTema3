@@ -3,9 +3,9 @@ package com.company;
 public class Main {
 
     public static void main(String[] args)  {
-        int a = 77;
-        int b = 33;
-        int c = 55;
+        int a = 777;
+        int b = 333;
+        int c = 555;
 
         int valor = suma(a,b,c);
         System.out.println(valor);
